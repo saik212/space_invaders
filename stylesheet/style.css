@@ -1,0 +1,22 @@
+#main {
+	margin: auto;
+	border: 2px solid #f00;
+	width: 800px;
+	margin-left: 22.5%;
+	margin-right: 25%;
+}
+h2 {
+	display: block;
+	font-size: 36px;
+	text-align: center;
+	font-family: 'Anonymous Pro';
+	color: #2c3e50;
+}
+body {
+	background: #ccc;
+}
+
+.how-to-play {
+	display: block;
+	text-align: center;
+}
